@@ -1,0 +1,6 @@
+Breaking any part of the community guidelines and code of conduct can result in a privilege de-escalation and your inability to contribute to this repository. The maintainer (me, @nightly-oss) also reserves the right to remove you from the acknowledged Contributors list and restrict your access to this repository further, like blocking your access to post in Discussions, or blocking you in the `ib-wiki` repository or in other Nightly_ projects and repositories.
+
+These guidelines and terms apply to any part of the repository, be it contributing via issues or pull requests, or using Discussions:
+1. **Be civil and respectful:** Everyone is here to learn. Bullying, harassment, or targetting a specific individual or group is strictly prohibited. Additionally, if you’re a student at Pierce, any such incident will be reported.
+2. **Notes are purely objective:** No political or deeply subjective content in the notes. Contributions with biased content will automatically be rejected.
+3. **Keep it focused:** No linking elsewhere unless it’s in a relevant context. Discussions should also be related to the IB.
