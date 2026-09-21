@@ -57,5 +57,8 @@ The structure of this Wiki and vault can always change, but your notes should be
 ## Respect the Code of Conduct
 Please read it [[CONDUCT|here]].
 
-## One *important* thing to be mindful of when working on the notes
-If you have this repository cloned locally, make sure to **touch only what you need**. If you modify anything else like the Obsidian settings or theme, or a document you didn’t mean to edit, make sure to exclude it from your commit!
+> [!IMPORTANT] One *important* thing to be mindful of when working on the notes
+> If you have this repository cloned locally, make sure to **touch only what you need**. If you modify anything else like the Obsidian settings or theme, or a document you didn’t mean to edit, make sure to exclude it from your commit!
+
+## About using AI
+Fully AI-generated submissions will be rejected. While you may use AI to check and draft notes, we accept notes written and audited by humans. So unless AI use is permitted by a maintainer or the output is reviewed and audited by you, it is generally not recommended to use it. 
