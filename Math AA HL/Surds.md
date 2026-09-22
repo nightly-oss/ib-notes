@@ -1,5 +1,5 @@
 - **Radical:** Any number written under the square root sign ($\sqrt{}$)
-- **Surd:** Any real, [[Terminology|irrational]] number.
+- **Surd:** Any real, [[Terminology (ENG to GR)|irrational]] number.
 ###### Examples
 > This is a radical, *not* a surd: $\sqrt{4} = 2$
 > These are radicals *and* surds: $\sqrt{2}, \sqrt{3}, \sqrt{11}, ...$
